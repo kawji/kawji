@@ -65,7 +65,7 @@
       <use href="#petal" x="500"  y="-28" width="22" height="22" style="animation:drift 9.8s linear infinite .9s"/>
       <use href="#petal" x="380"  y="-36" width="28" height="28" style="animation:drift 10.8s linear infinite .5s"/>
       <use href="#petal" x="260"  y="-30" width="24" height="24" style="animation:drift 9.7s linear infinite 1.3s"/>
-      <use href="#petal" x="140"  y="-38" width="26" height="26" style="animation:drrift 11.2s linear infinite .1s"/>
+      <use href="#petal" x="140"  y="-38" width="26" height="26" style="animation:drift 11.2s linear infinite .1s"/>
     </g>
   </svg>
 </div>
