@@ -124,14 +124,7 @@ showcasing my projects, creativity, and coding journey.
 ---
 
 ### ✨ GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaw-Supavich&show_icons=true&theme=tokyonight" alt="Kaw's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaw-Supavich&theme=tokyonight" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaw-Supavich&theme=tokyo-night" width="95%"/>
-</p>
 
 ---
 
