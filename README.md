@@ -21,7 +21,7 @@ and pushing myself until I can turn everything I imagine into real, working proj
 
 ### ⚡ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,python,fastapi,figma,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,python,fastapi,figma,sqlite,sqlalchemy" />
 </p>
 
 - ⚛️ *Frontend:* React, Next.js, TailwindCSS, React Query  
