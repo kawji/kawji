@@ -1,4 +1,5 @@
 <div align="center">
+
 <!-- Anime Banner: paste at the top of your README.md -->
 <div align="center">
   <svg viewBox="0 0 1200 280" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
@@ -106,9 +107,10 @@
       <use href="#petal" x="140"  y="-38" width="26" height="26" style="animation:drift 11.2s linear infinite .1s"/>
     </g>
   </svg>
+</div>
 
 </div>
-</div>
+
 <h1 align="center">こんにちは！ I'm Kaw — Supavich 👋</h1>
 <h3 align="center">🌸 A passionate 18-year-old student developer who loves creating anime-inspired web projects 🌸</h3>
 
