@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Anime Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Otaku+Dev+%E2%98%86+React%2FNext.js+%2F+Tailwind;Building+anime-inspired+web+experiences;Learning+every+day+%F0%9F%8C%9A" alt="typing animation" />
