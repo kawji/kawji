@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Anime Banner" />
+  <img src="./anime-header.svg" width="100%" alt="Anime Banner" />
 </p>
 
 <p align="center">
