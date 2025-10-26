@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">こんにちは！ I'm Kaw — Supavich 👋</h1>
+<h3 align="center">🌸 A passionate 18-year-old student developer who loves creating anime-inspired web projects 🌸</h3>
 
-<!--
-**kawji/kawji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 About Me
+I'm an 18-year-old student who enjoys exploring the world of programming.  
+I love *thinking, designing, and building new projects* that continuously improve my skills.  
+What excites me the most is making different parts of code work together —  
+like connecting the *frontend* and *backend* into one seamless system.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I’m focusing on *creating professional, visually beautiful front-end designs*  
+and pushing myself until I can turn everything I imagine into real, working projects 💻💭  
+
+---
+
+### ⚡ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,python,fastapi,figma,sqlite" />
+</p>
+
+- ⚛️ *Frontend:* React, Next.js, TailwindCSS, React Query  
+- 🧠 *Backend:* FastAPI, SQLAlchemy  
+- 🎨 *Design:* Figma  
+- 🐍 *Languages:* TypeScript, Python  
+
+---
+
+### 🌸 Featured Project
+✨ *My Personal Portfolio Website*  
+🖥️ [supavich.vercel.app](https://supavich.vercel.app/)  
+A clean anime-inspired personal portfolio built with **Next.js + TailwindCSS**,  
+showcasing my projects, creativity, and coding journey.  
+
+
+---
+
+### 🧩 Fun Facts
+- 💻 I spend most of my free time coding or designing something new  
+- 🌙 I’m an *otaku* who loves anime and manga — they inspire my creativity  
+- 🤝 I enjoy *teamwork* because it helps me learn and grow faster  
+- 🎯 My goal: to become a *Software Engineer* who builds meaningful and fun digital experiences  
+
+---
+
+### 🌐 Connect with Me
+📧 *Email:* 24.supavich@gmail.com  
+📘 *Facebook:* [Kaw'su Thin'Shin](https://www.facebook.com/Kaw.su.Thin.Shin)  
+📸 *Instagram:* [@kaw.suvaz](https://www.instagram.com/kaw.suvaz)
+
+---
+
+### ✨ GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaw-Supavich&show_icons=true&theme=tokyonight" alt="Kaw's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaw-Supavich&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaw-Supavich&theme=tokyo-night" width="95%"/>
+</p>
+
+---
+
+### 🌸 Quote I Live By
+*“Code is like art — each line expresses a part of who we are.”*  
+— Kaw 🌙  
+ 
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/58/88/f7/5888f73a1b7f2e622013e6e20c38938d.gif" width="200"/>
+</p>
