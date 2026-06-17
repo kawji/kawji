@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me
-I'm an 18-year-old student who enjoys exploring the world of programming.  
+I'm an 19-year-old student who enjoys exploring the world of programming.  
 I love *thinking, designing, and building new projects* that continuously improve my skills.  
 What excites me the most is making different parts of code work together —  
 like connecting the *frontend* and *backend* into one seamless system.  
