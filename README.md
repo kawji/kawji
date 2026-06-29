@@ -49,7 +49,7 @@ showcasing my projects, creativity, and coding journey.
 ### 🌐 Connect with Me
 📧 *Email:* 24.supavich@gmail.com  
 📘 *Facebook:* [Kaw'su Thin'Shin](https://www.facebook.com/Kaw.su.Thin.Shin)  
-📸 *Instagram:* [@kaw.suvaz](https://www.instagram.com/kaw.suvaz)
+📸 *Instagram:* [@suphawit.th](https://www.instagram.com/suphawit.th)
 
 ---
 
